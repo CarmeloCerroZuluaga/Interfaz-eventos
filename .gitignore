@@ -1,0 +1,17 @@
+# Maven
+target/
+*.jar
+*.war
+*.ear
+
+# NetBeans
+nbproject/private/
+build/
+nbbuild/
+dist/
+nbdist/
+.nb-gradle/
+
+# Otros
+.DS_Store
+*.class
